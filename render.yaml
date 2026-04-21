@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: vcplayerbot
+    env: docker
+    dockerfilePath: ./Dockerfile
